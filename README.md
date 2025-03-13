@@ -28,3 +28,8 @@ The absolute change and percentage trend inside and outside LTNs in each borough
 
 ![image](https://github.com/user-attachments/assets/c604c3d2-5dbd-47c8-8bfd-153d3cfe4a0f)
 
+**Reference**
+py-stats19
+London LTN dataset: https://blog.westminster.ac.uk/ata/projects/london-ltn-dataset/
+https://www.healthystreetsscorecard.london/ltn-low-traffic-neighbourhood-schemes-mapping/
+London boundary: https://data.london.gov.uk/dataset/london_boroughs
